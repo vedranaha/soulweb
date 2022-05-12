@@ -1,0 +1,11 @@
+table {
+    margin:auto;
+    
+}
+th,td {
+        margin: 0;
+        padding: 0.5rem;
+        border: 1px solid rgb(196, 189, 189);
+       
+    }
+
