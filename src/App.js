@@ -1,10 +1,10 @@
 import React from "react";
-import Header from "./components/Header";
+import TableStatic from "./TableStatic";
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <TableStatic />
     </div>
   );
 }
